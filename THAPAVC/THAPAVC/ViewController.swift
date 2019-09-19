@@ -16,12 +16,12 @@ class ViewController: UIViewController {
         print("sure ookk")
     }
     func callWeb(){
-        var len : Int = 310
-        print("the lengthhhhhhhh    is length\(len)")
+        var len : Int = 3333510
+        print("the length is length\(len)")
     }
     func run(){
-        var runningTime : Int = 44333350
-        print("the run timeeee is 4450")
+        var runningTime : Int = 33333350
+        print("the run timeeee is 3350")
     }
 }
 
